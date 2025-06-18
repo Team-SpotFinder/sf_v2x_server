@@ -72,7 +72,7 @@ The tolerance values are used to determine the proximity between a vehicle and a
 
 ### CAMGeneratorServerNode
 
-follow run steps in the [sf_master](https://git.hs-coburg.de/SpotFinder/sf_master.git)
+follow run steps in the [sf_master](https://github.com/Team-SpotFinder/sf_master.git)
 
 1. start the node
 ```bash
@@ -81,7 +81,7 @@ ros2 run sf_cam_server cam_server
 
 ### V2X-Server
 
-follow run steps in the [sf_master](https://git.hs-coburg.de/SpotFinder/sf_master.git)
+follow run steps in the [sf_master](https://github.com/Team-SpotFinder/sf_master.git)
 
 1. start the node
 ```bash
